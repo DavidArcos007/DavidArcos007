@@ -11,7 +11,7 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DavidArcos007&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
