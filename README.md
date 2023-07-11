@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DavidArcos007)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-arcos-01b044282/)
-[![CV](https://www.cvwizard.es/favicon-512.png)](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR)
+
 
 
 Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engineering at the Technical University of Ambato. 
@@ -39,6 +39,8 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <br />
 
 </p>
+
+[![CV](https://www.cvwizard.es/favicon-512.png)](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR)
 <!--
 **DavidArcos007/DavidArcos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
