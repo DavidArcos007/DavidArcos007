@@ -15,8 +15,13 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 #### :muscle: Things I am challenging myself with:
 - Get up earlier to make good use of the day.
 - Code at least 4 hours a day.
-- Exercise 5 days a week
 - Improve my CV with some training apart from university.
+
+#### ⚡️ My hobbies:
+- Listening to music 
+- Going to the gym 
+- Playing sports
+- Playing video games 
 
 #### :computer: Programming languages and tools: 
 <p>
