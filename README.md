@@ -15,12 +15,12 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 - Taking online courses in AI and Mobile applications
 - Frontent internship at CCE.
 
-#### :muscle: Things I am challenging myself with:
+#### ⚡️ Things I am challenging myself with:
 - Get up earlier to make good use of the day.
 - Code at least 4 hours a day.
 - Improve my CV with some training apart from university.
 
-#### ⚡️ My hobbies:
+#### :muscle: My hobbies:
 - Listening to music 
 - Going to the gym 
 - Playing sports
