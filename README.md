@@ -14,7 +14,7 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <br />
-<code><img width="10%" src="[https://www.vectorlogo.zone/util/logos/w3_html5/w3_html5-icon.svg](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)"></code>
+<code><img width="10%" src="(https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
