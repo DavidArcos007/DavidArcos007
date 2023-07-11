@@ -10,6 +10,8 @@
 
 Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engineering at the Technical University of Ambato. 
 
+<img align="right" alt="img" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50%" height="auto" />
+
 #### 🌱 Achievements: 
 - I have a Bachelor of Science degree
 - Taking online courses in AI and Mobile applications
@@ -39,7 +41,7 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <br />
 </p>
-<h2 align="Center">  Curriculum Vitae <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h2 align="Center">  Curriculum Vitae <img src="https://thumbs.gfycat.com/SizzlingBareBedbug-size_restricted.gif" width="30"> </h3>
 [CV📫](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR) 
 
 
