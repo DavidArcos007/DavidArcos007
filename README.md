@@ -1,5 +1,11 @@
 ### Hi there 👋
+### Im Fernando Roldán!
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DavidArcos007)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-arcos-01b044282/)
+
+
+Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engineering at the Technical University of Ambato. 
 <!--
 **DavidArcos007/DavidArcos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
