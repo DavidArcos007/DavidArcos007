@@ -13,10 +13,10 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 - Frontent internship at CCE.
 
 #### :muscle: Things I am challenging myself with:
--Get up earlier to make good use of the day.
--Code at least 4 hours a day.
--Exercise 5 days a week
--Improve my CV with some training apart from university.
+- Get up earlier to make good use of the day.
+- Code at least 4 hours a day.
+- Exercise 5 days a week
+- Improve my CV with some training apart from university.
 
 #### :computer: Programming languages and tools: 
 <p>
