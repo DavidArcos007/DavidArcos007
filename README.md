@@ -6,6 +6,18 @@
 
 
 Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engineering at the Technical University of Ambato. 
+
+#### 🌱 Achievements: 
+- I have a Bachelor of Science degree
+- Taking online courses in AI and Mobile applications
+- Frontent internship at CCE.
+
+#### :muscle: Things I am challenging myself with:
+-Get up earlier to make good use of the day.
+-Code at least 4 hours a day.
+-Exercise 5 days a week
+-Improve my CV with some training apart from university.
+
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DavidArcos007&show_icons=true&hide_border=true" />
