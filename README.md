@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Im David Arcos developer from Ecuador!
+### I'm David Arcos developer from Ecuador!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DavidArcos007)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-arcos-01b044282/)
