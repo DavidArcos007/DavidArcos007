@@ -39,7 +39,8 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <br />
 </p>
 <h2 align="Center">  Curriculum Vitae <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-[![CV📫]([https://www.linkedin.com/in/david-arcos-01b044282/](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR)) 
+[![CV](📫)](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR)
+
 
 <!--
 **DavidArcos007/DavidArcos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
