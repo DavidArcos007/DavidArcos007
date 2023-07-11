@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+<img src="https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif" height="350px" width ="350px">
 ### I'm David Arcos developer from Ecuador!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DavidArcos007)
