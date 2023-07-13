@@ -41,6 +41,7 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
 <br />
 </p>
+[Curriculum](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR) - HTML
 <h2 align="Center">  Curriculum Vitae <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="30"> </h3>
 [CV📫](https://utaedu-my.sharepoint.com/:b:/g/personal/jarcos4997_uta_edu_ec/EdfU2mY5DWhCjLFhJwJrW0ABwBcWdx8pSCkKCmZJ1R_avA?e=A9AvzR) 
 
