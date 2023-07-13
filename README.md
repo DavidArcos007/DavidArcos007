@@ -42,11 +42,11 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 <br />
 </p>
 
-<h2 align="Center">  Curriculum Vitae <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="30"> </h3>
+<h2 align="Center"> Puedes Obeservar Mi Curriculum Vitae en el siguiente link <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="30"> </h3>
 📫
 
 ```bash
- https://acortar.link/m6WtPv
+https://utaedu-my.sharepoint.com/personal/jarcos4997_uta_edu_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjarcos4997%5Futa%5Fedu%5Fec%2FDocuments%2FCV%2Epdf&parent=%2Fpersonal%2Fjarcos4997%5Futa%5Fedu%5Fec%2FDocuments&ga=1
 ```
 
 <!--
