@@ -44,9 +44,11 @@ Hi, welcome to my GitHub, I'm David and I'm finishing my degree in Software Engi
 
 <h2 align="Center">  Curriculum Vitae <img src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif" width="30"> </h3>
 📫
+
 ```bash
  https://acortar.link/m6WtPv
 ```
+
 <!--
 **DavidArcos007/DavidArcos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
